@@ -1,0 +1,21 @@
+{
+  "name": "staii",
+  "version": "1.0.0",
+  "description": "stai",
+  "main": "sketch.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "stai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://stejus2010.github.io/stai_final/"
+  },
+  "keywords": [
+    "stai"
+  ],
+  "author": "tejus",
+  "license": "UNLICENSED"
+}
