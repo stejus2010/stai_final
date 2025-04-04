@@ -41,7 +41,7 @@ function startCamera() {
     // Use constraints to access the back camera
     const constraints = {
         video: {
-            facingMode: { exact: "environment" } // Use back camera
+            facingMode: { exact: "user" } // Use back camera
         }
     };
 
